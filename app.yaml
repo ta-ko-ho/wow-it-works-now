@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: begin-wrong-member
+package: ta-ko-ho/begin-wrong-member
